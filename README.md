@@ -14,3 +14,19 @@ using command "shift"
 
 ah=02h, displaying ASCII word
 ##
+
+### Week3
+Lab3
+
+Some modify to Lab2 code.
+
+Concept of Vector
+
+"dup" duplicate
+
+Self-Practice:
+
+"jmp" jump
+
+"cmp" compare, with "je" "jle" "jge"
+##
