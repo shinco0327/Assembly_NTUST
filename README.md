@@ -30,3 +30,13 @@ Self-Practice:
 
 "cmp" compare, with "je" "jle" "jge"
 ##
+
+### Week4
+Lab4
+
+Introduce command 
+
+Multiply "mul" "imul"
+
+Divide "div" "idiv"
+##
