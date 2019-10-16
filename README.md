@@ -40,3 +40,14 @@ Multiply "mul" "imul"
 
 Divide "div" "idiv"
 ##
+
+### Week5
+Lab5
+
+Bubble Sort 
+
+jmp
+
+loop
+
+##
