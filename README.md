@@ -51,3 +51,12 @@ jmp
 loop
 
 ##
+
+### Week6
+Lab6
+
+Introduce "function" 
+
+More of Stack
+
+##
