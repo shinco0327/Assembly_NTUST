@@ -80,3 +80,25 @@ Set cursor and character color
 
 ##
 
+### Week11
+Lab10
+
+More for 10h Graphic Mode
+
+Draw a triangle at the center of screen first then,
+
+num 8 move the triangle up
+
+num 2 move the triangle down
+
+num 4 move the triangle left
+
+num 6 move the triangle right
+
+num 5 to change triangle color
+
+screen size *640***480*
+
+16 colors
+
+##
