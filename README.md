@@ -102,3 +102,23 @@ screen size *640***480*
 16 colors
 
 ##
+
+### Week12 Last Practice
+Lab11
+
+Introduce to int 33h
+More for 10h Graphic Mode
+
+Draw a triangle at the point (100,100)
+
+triangle will move with the mouse
+
+esc to exit
+
+key 'c' to change color
+
+screen size *640***480*
+
+16 colors
+
+##
